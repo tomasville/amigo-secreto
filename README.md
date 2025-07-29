@@ -33,7 +33,7 @@ Editar
 1. **Clona este repositorio:**
 
 ```bash
-git clone https://github.com/tu-usuario/amigo-secreto.git
+git clone https://github.com/tomasville/amigo-secreto.git
 cd amigo-secreto
 Dependencias:
 
